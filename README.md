@@ -1,4 +1,4 @@
-#Javascript Calculator 2
+# Javascript Calculator 2
 
 #### By Jonathon Kang and David Shin
 
